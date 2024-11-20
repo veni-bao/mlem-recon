@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="350.6736pt" height="311.1995pt" viewBox="0 0 350.6736 311.1995" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-11-20T11:26:08.239026</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 311.1995 
+L 350.6736 311.1995 
+L 350.6736 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 24.2 288.8745 
+L 290.312 288.8745 
+L 290.312 22.7625 
+L 24.2 22.7625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pb2b9d8da0e)">
+    <image xlink:href="data:image/png;base64,
+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" id="image93f14d44a3" transform="scale(1 -1) translate(0 -266.4)" x="24.2" y="-22.4745" width="266.4" height="266.4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mca9bdde73f" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mca9bdde73f" x="25.53056" y="288.8745" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g transform="translate(23.03056 302.7495) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-30" d="M 225 2537 
+Q 250 3200 412 3587 
+Q 575 3975 875 4225 
+Q 1175 4475 1612 4475 
+Q 2050 4475 2375 4112 
+Q 2700 3750 2800 3200 
+Q 2900 2650 2862 1937 
+Q 2825 1225 2612 775 
+Q 2400 325 1975 150 
+Q 1550 -25 1125 187 
+Q 700 400 525 750 
+Q 350 1100 275 1487 
+Q 200 1875 225 2537 
+z
+M 750 2687 
+Q 675 2000 800 1462 
+Q 925 925 1212 700 
+Q 1500 475 1800 612 
+Q 2100 750 2237 1162 
+Q 2375 1575 2375 2062 
+Q 2375 2550 2337 2950 
+Q 2300 3350 2112 3675 
+Q 1925 4000 1612 4012 
+Q 1300 4025 1062 3700 
+Q 825 3375 750 2687 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mca9bdde73f" x="78.75296" y="288.8745" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 20 -->
+      <g transform="translate(73.75296 302.7495) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-32" d="M 300 250 
+Q 325 625 650 925 
+Q 975 1225 1475 1862 
+Q 1975 2500 2125 2850 
+Q 2275 3200 2237 3450 
+Q 2200 3700 2000 3862 
+Q 1800 4025 1537 4000 
+Q 1275 3975 1037 3800 
+Q 800 3625 675 3275 
+L 200 3350 
+Q 400 3925 712 4187 
+Q 1025 4450 1450 4475 
+Q 1700 4500 1900 4462 
+Q 2100 4425 2312 4287 
+Q 2525 4150 2662 3875 
+Q 2800 3600 2762 3212 
+Q 2725 2825 2375 2287 
+Q 2025 1750 1025 600 
+L 2825 600 
+L 2825 150 
+L 300 150 
+L 300 250 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mca9bdde73f" x="131.97536" y="288.8745" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 40 -->
+      <g transform="translate(126.97536 302.7495) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-34" d="M 2000 1100 
+L 75 1100 
+L 75 1525 
+L 2100 4450 
+L 2475 4450 
+L 2475 1525 
+L 3075 1525 
+L 3075 1100 
+L 2475 1100 
+L 2475 150 
+L 2000 150 
+L 2000 1100 
+z
+M 2000 1525 
+L 2000 3500 
+L 600 1525 
+L 2000 1525 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mca9bdde73f" x="185.19776" y="288.8745" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 60 -->
+      <g transform="translate(180.19776 302.7495) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-36" d="M 250 1612 
+Q 275 1975 387 2225 
+Q 500 2475 725 2850 
+L 1750 4450 
+L 2325 4450 
+L 1275 2800 
+Q 1950 2975 2350 2750 
+Q 2750 2525 2887 2237 
+Q 3025 1950 3037 1612 
+Q 3050 1275 2937 950 
+Q 2825 625 2537 362 
+Q 2250 100 1737 75 
+Q 1225 50 862 262 
+Q 500 475 362 862 
+Q 225 1250 250 1612 
+z
+M 1025 787 
+Q 1250 550 1625 525 
+Q 2000 500 2250 775 
+Q 2500 1050 2500 1575 
+Q 2500 2100 2187 2300 
+Q 1875 2500 1487 2450 
+Q 1100 2400 925 2075 
+Q 750 1750 775 1387 
+Q 800 1025 1025 787 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-36"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mca9bdde73f" x="238.42016" y="288.8745" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 80 -->
+      <g transform="translate(233.42016 302.7495) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-38" d="M 175 1375 
+Q 175 1675 325 1962 
+Q 475 2250 825 2425 
+Q 525 2600 425 2812 
+Q 325 3025 312 3300 
+Q 300 3575 387 3775 
+Q 475 3975 650 4150 
+Q 825 4325 1037 4387 
+Q 1250 4450 1500 4450 
+Q 1750 4450 1950 4400 
+Q 2150 4350 2375 4187 
+Q 2600 4025 2700 3725 
+Q 2800 3425 2687 3025 
+Q 2575 2625 2100 2400 
+Q 2525 2275 2700 2012 
+Q 2875 1750 2875 1375 
+Q 2875 1000 2762 775 
+Q 2650 550 2512 400 
+Q 2375 250 2137 162 
+Q 1900 75 1537 75 
+Q 1175 75 912 162 
+Q 650 250 475 425 
+Q 300 600 237 837 
+Q 175 1075 175 1375 
+z
+M 687 1400 
+Q 675 1100 787 875 
+Q 900 650 1200 587 
+Q 1500 525 1825 600 
+Q 2150 675 2275 950 
+Q 2400 1225 2362 1500 
+Q 2325 1775 2050 1962 
+Q 1775 2150 1450 2125 
+Q 1125 2100 912 1900 
+Q 700 1700 687 1400 
+z
+M 775 3350 
+Q 775 3100 950 2875 
+Q 1125 2650 1500 2650 
+Q 1875 2650 2062 2875 
+Q 2250 3100 2237 3412 
+Q 2225 3725 2012 3875 
+Q 1800 4025 1437 4000 
+Q 1075 3975 925 3787 
+Q 775 3600 775 3350 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-38"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="m0994a60110" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m0994a60110" x="24.2" y="24.09306" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0 -->
+      <g transform="translate(12.2 27.53056) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m0994a60110" x="24.2" y="77.31546" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 20 -->
+      <g transform="translate(7.2 80.75296) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m0994a60110" x="24.2" y="130.53786" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 40 -->
+      <g transform="translate(7.2 133.97536) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m0994a60110" x="24.2" y="183.76026" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 60 -->
+      <g transform="translate(7.2 187.19776) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m0994a60110" x="24.2" y="236.98266" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 80 -->
+      <g transform="translate(7.2 240.42016) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 24.2 288.8745 
+L 24.2 22.7625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 290.312 288.8745 
+L 290.312 22.7625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 24.2 288.8745 
+L 290.312 288.8745 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 24.2 22.7625 
+L 290.312 22.7625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <!-- 20次迭代后的重建结果 -->
+    <g transform="translate(97.256 16.7625) scale(0.12 -0.12)">
+     <defs>
+      <path id="SimHei-6b21" d="M 4150 3025 
+Q 4000 2550 4050 2187 
+Q 4100 1825 4275 1450 
+Q 4450 1075 4800 750 
+Q 5150 425 5475 212 
+Q 5800 0 6150 -150 
+Q 5875 -350 5750 -625 
+Q 5250 -325 4887 -25 
+Q 4525 275 4275 612 
+Q 4025 950 3825 1425 
+Q 3525 625 2950 125 
+Q 2375 -375 1850 -650 
+Q 1675 -400 1475 -225 
+Q 2025 0 2487 362 
+Q 2950 725 3162 1100 
+Q 3375 1475 3450 1825 
+Q 3525 2175 3537 2400 
+Q 3550 2625 3525 3125 
+Q 3825 3050 4150 3025 
+z
+M 3700 4975 
+Q 3625 4900 3475 4575 
+Q 3325 4250 3250 4075 
+L 5775 4075 
+Q 5650 3725 5550 3362 
+Q 5450 3000 5275 2500 
+Q 5000 2575 4775 2600 
+Q 5025 3350 5100 3650 
+L 3100 3650 
+Q 2975 3400 2812 3100 
+Q 2650 2800 2425 2450 
+Q 2275 2600 1975 2700 
+Q 2300 3050 2625 3762 
+Q 2950 4475 3125 5200 
+Q 3450 5025 3700 4975 
+z
+M 2025 2000 
+Q 1825 1675 1475 1087 
+Q 1125 500 725 -200 
+Q 500 -25 250 175 
+Q 725 725 1037 1262 
+Q 1350 1800 1575 2325 
+Q 1750 2175 2025 2000 
+z
+M 900 4750 
+Q 1725 3725 1950 3375 
+Q 1750 3250 1500 3050 
+Q 1250 3525 500 4425 
+Q 700 4575 900 4750 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-8fed" d="M 3900 1875 
+Q 3600 1350 3287 1012 
+Q 2975 675 2450 275 
+Q 2350 475 2025 700 
+Q 2600 975 3012 1425 
+Q 3425 1875 3600 2450 
+Q 2350 2450 1950 2425 
+L 1950 2900 
+Q 2375 2875 3675 2875 
+Q 3725 3250 3750 3775 
+L 2800 3775 
+Q 2675 3450 2550 3175 
+Q 2300 3300 2075 3350 
+Q 2275 3675 2425 4112 
+Q 2575 4550 2700 5100 
+Q 2850 5000 3225 4925 
+Q 3075 4725 2950 4200 
+L 3750 4200 
+Q 3750 4850 3700 5250 
+L 4275 5225 
+Q 4225 4925 4200 4200 
+L 4950 4200 
+Q 5175 4200 5575 4225 
+L 5575 3725 
+Q 5175 3775 4875 3775 
+L 4200 3775 
+Q 4175 3250 4125 2875 
+L 5150 2875 
+Q 5475 2875 5925 2900 
+L 5925 2425 
+Q 5475 2450 5075 2450 
+L 4100 2450 
+L 4050 2300 
+Q 4650 1775 5725 700 
+Q 5600 650 5275 300 
+Q 4775 975 3900 1875 
+z
+M 1550 2950 
+L 1550 625 
+Q 2200 -25 3712 -12 
+Q 5225 0 6125 100 
+Q 5950 -225 5900 -475 
+L 3575 -475 
+Q 2975 -475 2525 -387 
+Q 2075 -300 1725 -50 
+Q 1375 200 1162 12 
+Q 950 -175 650 -550 
+Q 500 -350 250 -175 
+Q 775 275 1075 575 
+L 1075 2525 
+Q 750 2525 350 2500 
+L 350 2975 
+Q 775 2950 1075 2950 
+L 1550 2950 
+z
+M 1125 5025 
+Q 1525 4275 1675 3900 
+Q 1450 3875 1175 3650 
+Q 950 4275 650 4750 
+Q 900 4850 1125 5025 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-4ee3" d="M 3300 2950 
+Q 3175 4575 3150 5100 
+Q 3300 5075 3725 5025 
+Q 3675 4725 3800 3050 
+Q 5000 3275 5650 3475 
+L 5775 3000 
+Q 5500 2975 3850 2625 
+Q 4150 1050 4737 450 
+Q 5325 -150 5412 125 
+Q 5500 400 5525 725 
+Q 5800 550 6075 500 
+Q 5900 -200 5737 -425 
+Q 5575 -650 5137 -500 
+Q 4700 -350 4187 300 
+Q 3675 950 3350 2525 
+Q 2400 2325 2175 2250 
+L 2025 2725 
+Q 2425 2775 3300 2950 
+z
+M 2250 4975 
+Q 2100 4725 1700 3650 
+L 1700 475 
+Q 1700 -50 1725 -600 
+L 1200 -600 
+Q 1225 -50 1225 475 
+L 1225 2750 
+Q 850 2150 600 1850 
+Q 450 2050 225 2225 
+Q 625 2600 1050 3425 
+Q 1475 4250 1675 5200 
+Q 2050 5025 2250 4975 
+z
+M 4700 4875 
+Q 5150 4325 5325 4050 
+Q 5100 3900 4875 3725 
+Q 4650 4150 4300 4575 
+Q 4500 4700 4700 4875 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-540e" d="M 5475 2150 
+Q 5450 1750 5450 775 
+Q 5450 -175 5500 -550 
+L 4975 -550 
+L 4975 -25 
+L 2525 -25 
+L 2525 -600 
+L 2025 -600 
+Q 2050 -175 2050 775 
+Q 2050 1750 2025 2150 
+L 5475 2150 
+z
+M 5175 5075 
+Q 5300 4800 5525 4525 
+Q 4950 4475 3750 4337 
+Q 2550 4200 1575 4175 
+L 1575 3375 
+L 5200 3375 
+Q 5550 3375 5975 3400 
+L 5975 2900 
+Q 5575 2925 5200 2925 
+L 1575 2925 
+Q 1550 2425 1487 1875 
+Q 1425 1325 1250 712 
+Q 1075 100 800 -325 
+Q 650 -200 225 -50 
+Q 625 325 825 1062 
+Q 1025 1800 1050 2825 
+Q 1075 3850 1075 4575 
+Q 2300 4600 3625 4775 
+Q 4950 4950 5175 5075 
+z
+M 4975 375 
+L 4975 1725 
+L 2525 1725 
+L 2525 375 
+L 4975 375 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-7684" d="M 2100 4975 
+Q 1975 4750 1750 3950 
+L 2875 3950 
+Q 2850 3525 2850 2875 
+L 2850 675 
+Q 2850 300 2875 -400 
+L 2375 -400 
+L 2375 100 
+L 1100 100 
+L 1100 -450 
+L 600 -450 
+Q 625 350 625 550 
+L 625 2850 
+Q 625 3525 600 3950 
+L 1325 3950 
+Q 1450 4525 1525 5150 
+Q 1875 5025 2100 4975 
+z
+M 5825 3075 
+Q 5800 1550 5700 175 
+Q 5650 -275 5225 -425 
+Q 4800 -575 4275 -625 
+Q 4250 -350 4050 -50 
+Q 4550 -75 4837 -25 
+Q 5125 25 5200 200 
+Q 5275 375 5312 1225 
+Q 5350 2075 5375 3600 
+L 3925 3600 
+Q 3725 3125 3350 2475 
+Q 3175 2650 2925 2750 
+Q 3150 3050 3350 3475 
+Q 3550 3900 3700 4400 
+Q 3850 4900 3875 5175 
+Q 4225 5025 4475 4950 
+Q 4350 4750 4262 4512 
+Q 4175 4275 4075 4050 
+L 5850 4050 
+Q 5825 3525 5825 3075 
+z
+M 2375 525 
+L 2375 1850 
+L 1100 1850 
+L 1100 525 
+L 2375 525 
+z
+M 2375 2275 
+L 2375 3525 
+L 1100 3525 
+L 1100 2275 
+L 2375 2275 
+z
+M 4350 2050 
+Q 4500 1750 4700 1275 
+Q 4525 1200 4225 1025 
+Q 4050 1500 3900 1837 
+Q 3750 2175 3600 2400 
+Q 3775 2500 4050 2650 
+L 4350 2050 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-91cd" d="M 5300 4575 
+Q 3900 4450 3425 4400 
+L 3425 3875 
+L 5150 3875 
+Q 5500 3875 6000 3900 
+L 6000 3450 
+Q 5500 3475 5150 3475 
+L 3425 3475 
+L 3425 3050 
+L 5150 3050 
+Q 5125 2675 5125 2125 
+Q 5125 1575 5150 1175 
+L 3425 1175 
+L 3425 750 
+L 4550 750 
+Q 5000 750 5500 775 
+L 5500 375 
+Q 5025 400 4575 400 
+L 3425 400 
+L 3425 -50 
+L 5050 -50 
+Q 5475 -50 5975 -25 
+L 5975 -450 
+Q 5475 -425 5075 -425 
+L 1475 -425 
+Q 975 -425 450 -450 
+L 450 -25 
+Q 975 -50 1450 -50 
+L 2925 -50 
+L 2925 400 
+L 2050 400 
+Q 1450 400 950 375 
+L 950 775 
+Q 1600 750 2075 750 
+L 2925 750 
+L 2925 1175 
+L 1250 1175 
+Q 1275 1800 1275 2125 
+Q 1275 2450 1250 3050 
+L 2925 3050 
+L 2925 3475 
+L 1225 3475 
+Q 875 3475 400 3450 
+L 400 3900 
+Q 875 3875 1225 3875 
+L 2925 3875 
+L 2925 4375 
+Q 2425 4350 1075 4250 
+Q 1000 4475 875 4675 
+Q 2275 4700 3362 4812 
+Q 4450 4925 4925 5075 
+Q 5025 4825 5300 4575 
+z
+M 4650 2300 
+L 4650 2650 
+L 3425 2650 
+L 3425 2300 
+L 4650 2300 
+z
+M 2925 2300 
+L 2925 2650 
+L 1750 2650 
+L 1750 2300 
+L 2925 2300 
+z
+M 4625 1575 
+L 4625 1900 
+L 3425 1900 
+L 3425 1575 
+L 4625 1575 
+z
+M 2925 1575 
+L 2925 1900 
+L 1750 1900 
+L 1750 1575 
+L 2925 1575 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-5efa" d="M 3650 4700 
+Q 3650 5025 3625 5250 
+L 4125 5250 
+Q 4100 5025 4100 4700 
+L 5450 4700 
+Q 5425 4400 5425 3850 
+Q 5775 3850 6050 3875 
+L 6050 3450 
+Q 5800 3475 5425 3475 
+Q 5425 2925 5450 2625 
+L 4100 2625 
+L 4100 2125 
+Q 5075 2125 5400 2150 
+L 5400 1725 
+Q 5100 1750 4100 1750 
+L 4100 1250 
+L 4850 1250 
+Q 5325 1250 5725 1275 
+L 5725 825 
+Q 5325 850 4850 850 
+L 4100 850 
+Q 4100 425 4125 125 
+L 3625 125 
+Q 3650 425 3650 850 
+L 3075 850 
+Q 2700 850 2250 825 
+L 2250 1275 
+Q 2675 1250 3100 1250 
+L 3650 1250 
+L 3650 1750 
+Q 2950 1750 2425 1725 
+L 2425 2150 
+Q 2975 2125 3650 2125 
+L 3650 2625 
+Q 3000 2625 2550 2600 
+L 2550 3025 
+Q 3000 3000 3650 3000 
+L 3650 3475 
+L 3200 3475 
+Q 2750 3475 2200 3450 
+L 2200 3875 
+Q 2750 3850 3200 3850 
+L 3650 3850 
+L 3650 4325 
+Q 2975 4325 2525 4300 
+L 2525 4725 
+Q 2975 4700 3650 4700 
+z
+M 2050 4625 
+Q 1975 4425 1300 2850 
+L 2125 2850 
+Q 2000 1875 1887 1475 
+Q 1775 1075 1650 750 
+Q 2000 425 2450 262 
+Q 2900 100 3500 37 
+Q 4100 -25 4775 -12 
+Q 5450 0 6125 75 
+Q 5950 -175 5925 -475 
+Q 4775 -500 4037 -462 
+Q 3300 -425 2812 -312 
+Q 2325 -200 2012 -25 
+Q 1700 150 1425 375 
+Q 1125 -75 650 -550 
+Q 475 -350 250 -200 
+Q 750 150 1100 700 
+Q 875 1000 737 1250 
+Q 600 1500 475 1825 
+Q 600 1850 900 2000 
+Q 975 1700 1325 1125 
+Q 1500 1650 1600 2450 
+Q 1050 2450 725 2325 
+L 600 2775 
+Q 900 2875 1100 3362 
+Q 1300 3850 1450 4250 
+Q 950 4250 525 4225 
+L 525 4650 
+Q 1025 4625 2050 4625 
+z
+M 4975 3000 
+L 4975 3475 
+L 4100 3475 
+L 4100 3000 
+L 4975 3000 
+z
+M 4975 3850 
+L 4975 4325 
+L 4100 4325 
+L 4100 3850 
+L 4975 3850 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-7ed3" d="M 5725 1925 
+Q 5700 1600 5700 1200 
+L 5700 350 
+Q 5700 -125 5725 -475 
+L 5225 -475 
+L 5225 0 
+L 3525 0 
+L 3525 -525 
+L 3025 -525 
+Q 3050 125 3050 325 
+L 3050 1250 
+Q 3050 1550 3025 1925 
+L 5725 1925 
+z
+M 1900 4850 
+Q 1700 4600 1475 4200 
+Q 1250 3800 925 3200 
+Q 1475 3225 1725 3225 
+Q 1950 3625 2100 4000 
+Q 2350 3825 2650 3675 
+Q 2525 3575 2212 3125 
+Q 1900 2675 1225 1650 
+Q 2050 1775 2525 1850 
+Q 2450 1575 2450 1375 
+Q 2225 1350 1650 1275 
+Q 1075 1200 525 1050 
+Q 425 1300 350 1550 
+Q 650 1625 950 2012 
+Q 1250 2400 1475 2825 
+Q 1300 2825 962 2787 
+Q 625 2750 375 2675 
+Q 300 2925 225 3150 
+Q 500 3375 812 3925 
+Q 1125 4475 1300 5125 
+Q 1600 4975 1900 4850 
+z
+M 4075 4175 
+Q 4075 4600 4050 5175 
+L 4575 5175 
+Q 4550 4725 4550 4175 
+L 5275 4175 
+Q 5750 4175 6150 4200 
+L 6150 3750 
+Q 5750 3775 5300 3775 
+L 4550 3775 
+L 4550 2950 
+L 5125 2950 
+Q 5475 2950 5825 2975 
+L 5825 2525 
+Q 5525 2550 5100 2550 
+L 3650 2550 
+Q 3225 2550 2900 2525 
+L 2900 2975 
+Q 3225 2950 3600 2950 
+L 4075 2950 
+L 4075 3775 
+L 3525 3775 
+Q 3075 3775 2675 3750 
+L 2675 4200 
+Q 3000 4175 3475 4175 
+L 4075 4175 
+z
+M 5225 400 
+L 5225 1525 
+L 3525 1525 
+L 3525 400 
+L 5225 400 
+z
+M 2575 650 
+Q 2500 425 2525 175 
+Q 2050 100 1450 0 
+Q 850 -100 425 -225 
+Q 325 100 225 350 
+Q 750 375 1175 437 
+Q 1600 500 2575 650 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-679c" d="M 2975 -525 
+Q 3000 -75 3000 575 
+L 3000 1600 
+L 2900 1600 
+Q 2725 1275 2500 1000 
+Q 2275 725 1987 512 
+Q 1700 300 1362 100 
+Q 1025 -100 675 -250 
+Q 575 25 400 275 
+Q 700 350 975 487 
+Q 1250 625 1525 787 
+Q 1800 950 2000 1150 
+Q 2200 1350 2375 1600 
+L 1375 1600 
+Q 1000 1600 450 1550 
+L 450 2050 
+Q 950 2000 1375 2000 
+L 3000 2000 
+L 3000 2450 
+L 1150 2450 
+Q 1175 3050 1175 3775 
+Q 1175 4500 1150 5000 
+L 5325 5000 
+Q 5300 4500 5300 3775 
+Q 5300 3050 5325 2450 
+L 3475 2450 
+L 3475 2000 
+L 5050 2000 
+Q 5550 2000 5925 2025 
+L 5925 1550 
+Q 5500 1600 5100 1600 
+L 4125 1600 
+Q 4450 1075 4925 800 
+Q 5400 525 6050 375 
+Q 5875 150 5775 -175 
+Q 4925 150 4425 550 
+Q 3925 950 3675 1600 
+L 3475 1600 
+L 3475 550 
+Q 3475 0 3500 -525 
+L 2975 -525 
+z
+M 4825 3875 
+L 4825 4625 
+L 3475 4625 
+L 3475 3875 
+L 4825 3875 
+z
+M 3000 3875 
+L 3000 4625 
+L 1675 4625 
+L 1675 3875 
+L 3000 3875 
+z
+M 4825 2825 
+L 4825 3500 
+L 3475 3500 
+L 3475 2825 
+L 4825 2825 
+z
+M 3000 2825 
+L 3000 3500 
+L 1675 3500 
+L 1675 2825 
+L 3000 2825 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SimHei-32"/>
+     <use xlink:href="#SimHei-30" x="50"/>
+     <use xlink:href="#SimHei-6b21" x="100"/>
+     <use xlink:href="#SimHei-8fed" x="200"/>
+     <use xlink:href="#SimHei-4ee3" x="300"/>
+     <use xlink:href="#SimHei-540e" x="400"/>
+     <use xlink:href="#SimHei-7684" x="500"/>
+     <use xlink:href="#SimHei-91cd" x="600"/>
+     <use xlink:href="#SimHei-5efa" x="700"/>
+     <use xlink:href="#SimHei-7ed3" x="800"/>
+     <use xlink:href="#SimHei-679c" x="900"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 308.168 288.8745 
+L 321.4736 288.8745 
+L 321.4736 22.7625 
+L 308.168 22.7625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABIAAAFyCAYAAAD4TYq5AAAB9ElEQVR4nO2dwW3EMBADJUulpYT0X0ouJawfg8OAoAogPEvuSoIP5/2zfz8LWHfth9BZjMpa6+5nM0JFGxeHtjg0Roh0jdHC0O6Cngi0n0PT2Q/1mhCNc03XtFSLRNcot2lB13SjNnen1fVacrI/PvshqSZ7XhwalaPa/0KoTTsuY7IZHWUgk+2HhHxoVCCT55EQjXMNEvIlG0RjhIQXP6pGwck27rS5ye48moWErnFHP0ZI6Zqs+zuz51W0F0LRaLH3/uDtqMmehYo2CzXZ4zKiMTpGtNo/CwWj+eZRR+0sFFyjYDSd/T407ImCA+krtq9GRZvXXZs51wbPo87sLwo12V8UEroGjlrIfl+N2rRvhBCd5GQLAwm9FomukS/Za8U27c6dRzo0rPuF2xFVbNJ+TMiGBgbShgaRgd0vrBFl/yNEq2uTULBrD3XQ8u20lGvCZBfthRCUbGPT2oSM9vvQqFErRAt2zTaPlDX6o4R0aHVtFDo+NM612GQfW42EM9uY7OBAytDu8SWbalohGrYd6S5+RZuFdN0vHGzCpg2eR5xrsYHUdT9YI+7e70OLdS14HnH3tdztCLzTxs5s4xmSalodGhhIRMdYI0rpHt0r6AP9bgirEXmIwNBsf38FugYJUcUmmxb6VIHQfurbGVSNMLR/15KN5gnPcwMAAAAASUVORK5CYII=" id="imageb3685efe24" transform="scale(1 -1) translate(0 -266.4)" x="308.16" y="-22.32" width="12.96" height="266.4"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <defs>
+       <path id="m1b0a3c0ba3" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1b0a3c0ba3" x="321.4736" y="288.8745" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 0.0 -->
+      <g transform="translate(328.4736 292.312) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-2e" d="M 1075 125 
+L 500 125 
+L 500 675 
+L 1075 675 
+L 1075 125 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m1b0a3c0ba3" x="321.4736" y="238.375084" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 0.2 -->
+      <g transform="translate(328.4736 241.812584) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m1b0a3c0ba3" x="321.4736" y="187.875668" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 0.4 -->
+      <g transform="translate(328.4736 191.313168) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-34" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m1b0a3c0ba3" x="321.4736" y="137.376253" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 0.6 -->
+      <g transform="translate(328.4736 140.813753) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-36" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m1b0a3c0ba3" x="321.4736" y="86.876837" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 0.8 -->
+      <g transform="translate(328.4736 90.314337) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-38" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m1b0a3c0ba3" x="321.4736" y="36.377421" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 1.0 -->
+      <g transform="translate(328.4736 39.814921) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-31" d="M 1400 3600 
+Q 1075 3275 575 2975 
+L 575 3450 
+Q 1200 3875 1600 4450 
+L 1900 4450 
+L 1900 150 
+L 1400 150 
+L 1400 3600 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-30" x="100"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_8">
+    <path d="M 308.168 288.8745 
+L 314.8208 288.8745 
+L 321.4736 288.8745 
+L 321.4736 22.7625 
+L 314.8208 22.7625 
+L 308.168 22.7625 
+L 308.168 288.8745 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb2b9d8da0e">
+   <rect x="24.2" y="22.7625" width="266.112" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>

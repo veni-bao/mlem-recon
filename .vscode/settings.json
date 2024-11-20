@@ -1,0 +1,24 @@
+{
+    // 自动保存
+    "files.autoSave": "afterDelay",
+    // code snippet
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // 新开窗口
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreview": false,
+    "files.associations": {
+        "*.m": "matlab"
+        //其他关联设置在此处添加
+    },
+    "matlab.matlabpath": "D:\\mymatlab\\bin\\matlab.exe",
+    "matlab.mlintpath": "D:\\mymatlab\\bin\\win64\\mlint.exe",
+    "matlab.linterEncoding": "utf-8",
+    "[matlab]": {
+        "files.encoding": "gb2312"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "matlab": "cd $dir && matlab -nosplash -nodesktop -r $fileNameWithoutExt"
+    }
+}

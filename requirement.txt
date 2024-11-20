@@ -1,0 +1,5 @@
+numpy
+ipython
+tqdm
+matplotlib.pyplot
+math

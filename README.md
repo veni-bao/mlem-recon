@@ -1,4 +1,4 @@
-## 这是基于python的MLEM重建算法实践
+## 这是MLEM重建算法实践
 
 [recon.m](./recon.m)是重建算法的matlab实现。
 [recon.py](./recon.py)是重建算法的python实现，并且把重建算法打包为一个方便使用的函数 *recon*。

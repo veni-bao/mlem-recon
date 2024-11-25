@@ -32,7 +32,7 @@ r3=zeros(1024,1);
 pic=zeros(32,32);
 sine=zeros(32,60);
 %MLEM算法
-Pstd = proj;    %这个取决于要不要噪声，有噪声就是projnoi,无噪声就是proj
+Pstd = proj;    %这个取决于要不要噪声，有噪声就是第23行,无噪声就是第22行；
 for k = 1:1:200
    p1=sysmat*f;
    r1=Pstd./p1;
